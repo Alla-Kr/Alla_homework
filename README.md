@@ -1,2 +1,0 @@
-# Alladata
-SF homework
